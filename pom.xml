@@ -37,7 +37,7 @@
     <dependency>
       <groupId>io.kaitai</groupId>
       <artifactId>kaitai-struct-compiler_2.12</artifactId>
-      <version>0.8</version>
+      <version>0.9</version>
     </dependency>
     <dependency>
       <groupId>ru.mingun</groupId>
